@@ -1,0 +1,10 @@
+C:\C#\Inlämningsuppgift3\MinaProjekt\bin\Debug\MinaProjekt.exe.config
+C:\C#\Inlämningsuppgift3\MinaProjekt\bin\Debug\MinaProjekt.exe
+C:\C#\Inlämningsuppgift3\MinaProjekt\bin\Debug\MinaProjekt.pdb
+C:\C#\Inlämningsuppgift3\MinaProjekt\obj\Debug\MinaProjekt.csproj.AssemblyReference.cache
+C:\C#\Inlämningsuppgift3\MinaProjekt\obj\Debug\MinaProjekt.Form1.resources
+C:\C#\Inlämningsuppgift3\MinaProjekt\obj\Debug\MinaProjekt.Properties.Resources.resources
+C:\C#\Inlämningsuppgift3\MinaProjekt\obj\Debug\MinaProjekt.csproj.GenerateResource.cache
+C:\C#\Inlämningsuppgift3\MinaProjekt\obj\Debug\MinaProjekt.csproj.CoreCompileInputs.cache
+C:\C#\Inlämningsuppgift3\MinaProjekt\obj\Debug\MinaProjekt.exe
+C:\C#\Inlämningsuppgift3\MinaProjekt\obj\Debug\MinaProjekt.pdb
